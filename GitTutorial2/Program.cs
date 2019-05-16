@@ -15,6 +15,9 @@ namespace GitTutorial2
         static void Main()
         {
             //Hello,World!
+            //Hello,World!
+            //Hello,World!
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
