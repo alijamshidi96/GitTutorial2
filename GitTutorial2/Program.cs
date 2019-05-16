@@ -14,9 +14,7 @@ namespace GitTutorial2
         [STAThread]
         static void Main()
         {
-            //Hello,World!
-            //Hello,World!
-            //Hello,World!
+         
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
